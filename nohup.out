@@ -1,0 +1,56 @@
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+[15/Feb/2024 15:56:15] code 400, message Bad request version ('\x0fâ\x11ÔÖC74\x95tàðo\x99\x12')
+[15/Feb/2024 15:56:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:56:15] code 400, message Bad request syntax ('\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03ãzõ];\x18¥@+\x01\x19¤\x8f²\x12\x03\x15')
+[15/Feb/2024 15:56:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:56:58] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00\x12\x00\x00\x00-\x00\x02\x01\x01\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00')
+[15/Feb/2024 15:56:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:56:58] code 400, message Bad request version ('l\x03\x10¸ZÕº9Ì®VÂóX]\x19-p\x7fÿïÌo·\x14\x9fW\x05yRT')
+[15/Feb/2024 15:56:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:56:58] code 400, message Bad request version ('\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00')
+[15/Feb/2024 15:56:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:56:58] code 400, message Bad request version ('\x00\x02\x01\x00\x00#\x00\x00\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+[15/Feb/2024 15:56:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:57:15] code 400, message Bad request version ('ûq')
+[15/Feb/2024 15:57:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:57:15] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+[15/Feb/2024 15:57:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:57:16] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03')
+[15/Feb/2024 15:57:16] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:57:16] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00+\x00\x07\x06êê\x03\x04\x03\x03\x00')
+[15/Feb/2024 15:57:16] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:57:42] code 400, message Bad request version ('sp´')
+[15/Feb/2024 15:57:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:57:42] code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01Í')
+[15/Feb/2024 15:57:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:58:53] code 400, message Bad request version ('\x14\x00')
+[15/Feb/2024 15:58:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:58:53] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
+[15/Feb/2024 15:58:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:58:54] code 400, message Bad request version ('ï\x94HwÛÀ7é;*\x03S\x88$-ÇÈ')
+[15/Feb/2024 15:58:54] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:58:54] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03\x00\x00Ú\x908Ùº\x82l')
+[15/Feb/2024 15:58:54] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:59:45] code 400, message Bad request version ('sK\x07ó\x04ÅtÍ\x11îuêì¾ócÔ')
+[15/Feb/2024 15:59:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:59:45] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03§§\x13')
+[15/Feb/2024 15:59:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:59:46] code 400, message Bad request version ('n\x00')
+[15/Feb/2024 15:59:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 15:59:46] code 400, message Bad request version ('\x14?5V\x02)\x80«Å®6êËïËÅ³')
+[15/Feb/2024 15:59:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 16:00:55] code 400, message Bad request syntax ('\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03²6Úã])6\x9aJå')
+[15/Feb/2024 16:00:55] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 16:00:55] code 400, message Bad request version ('\'#Ê¨1¸"qyØ$«\x86\x8eìà\x90ÑäD¬\x1a\x884¹\x18ý7È\x03')
+[15/Feb/2024 16:00:55] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 16:00:56] code 400, message Bad request syntax ('\x16\x03\x01\x02:\x01\x00\x026\x03\x03ö@Cï,²Dà¨\x9a>0É-\x13É+é')
+[15/Feb/2024 16:00:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Feb/2024 16:00:56] code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+[15/Feb/2024 16:00:56] You're accessing the development server over HTTPS, but it only supports HTTP.
